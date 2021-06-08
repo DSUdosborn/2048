@@ -6,7 +6,7 @@ body {
 
 #board {
   user-select: none;
-  width: 720px;
+  width: 520px;
 }
 
 .tile {
