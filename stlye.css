@@ -1,0 +1,24 @@
+body {
+  font-family: Robot0, sans-serif;
+  margin: 0;
+  padding: 50px;
+}
+
+#board {
+  user-select: none;
+  width: 720px;
+}
+
+.tile {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #ccc;
+
+  float: left;
+  font-size: 65px;
+
+  line-height: 100px;
+  margin: 2px;
+  text-align: center;
+
+}
